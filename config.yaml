@@ -2,12 +2,12 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Brunnhilde
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Brunnhilde's Rock
         weight: 1
     zh-cn:
         languageName: 中文
@@ -53,12 +53,12 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🌿
+        subtitle: Zu neuen Taten, teurer Helde!
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/brunnhilde.jpg
 
     article:
         math: false
